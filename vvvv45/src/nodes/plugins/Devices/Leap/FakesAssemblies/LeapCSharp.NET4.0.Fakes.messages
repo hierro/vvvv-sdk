@@ -1,0 +1,21 @@
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate stub for Leap.LeapPINVOKE: type is not visible to exported or assembly(LeapCSharp.NET4.0.Fakes).
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Gesture+GestureState: type is an enum.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Gesture+GestureType: type is an enum.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Config+ValueType: type is an enum.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Controller+PolicyFlag: type is an enum.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.DeviceList+DeviceListEnumerator: type is not visible to exported or assembly(LeapCSharp.NET4.0.Fakes).
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Pointable+Zone: type is an enum.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.FingerList+FingerListEnumerator: type is not visible to exported or assembly(LeapCSharp.NET4.0.Fakes).
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.GestureList+GestureListEnumerator: type is not visible to exported or assembly(LeapCSharp.NET4.0.Fakes).
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.HandList+HandListEnumerator: type is not visible to exported or assembly(LeapCSharp.NET4.0.Fakes).
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.LeapPINVOKE: type is not visible to exported or assembly(LeapCSharp.NET4.0.Fakes).
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Listener+SwigDelegateListener_0: type is a delegate.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Listener+SwigDelegateListener_1: type is a delegate.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Listener+SwigDelegateListener_2: type is a delegate.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Listener+SwigDelegateListener_3: type is a delegate.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Listener+SwigDelegateListener_4: type is a delegate.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Listener+SwigDelegateListener_5: type is a delegate.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.Listener+SwigDelegateListener_6: type is a delegate.
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.PointableList+PointableListEnumerator: type is not visible to exported or assembly(LeapCSharp.NET4.0.Fakes).
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.ScreenList+ScreenListEnumerator: type is not visible to exported or assembly(LeapCSharp.NET4.0.Fakes).
+H:\DEVELOPPA\GitHub\vvvv-sdk\vvvv45\src\nodes\plugins\Devices\Leap\Fakes\LeapCSharp.NET4.0.fakes : warning : Cannot generate shim for Leap.ToolList+ToolListEnumerator: type is not visible to exported or assembly(LeapCSharp.NET4.0.Fakes).
